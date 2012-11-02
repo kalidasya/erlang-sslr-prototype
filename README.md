@@ -1,4 +1,5 @@
 erlang-sslr-prototype
 =====================
 
-Prototype for Sonar SSLR with erlang
+outdated repo, pls check https://github.com/kalidasya/sonar-erlang
+
